@@ -1,5 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
+
+<!-- BACK TO TOP ANCHOR -->
+<!-- <a id="readme-top"></a> -->
 
 
 <!-- PROJECT TITLE -->
@@ -8,7 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![She Climbs Screen Shot][she-climbs-website-screenshot]](website-sheclimbs\she_climbs\images\screenshot.png)
+[![She Climbs Screen Shot][she-climbs-website-screenshot]](./images/screenshot.png)
 
 This is the very first 'major' project that I ever worked on. It's called *She Climbs*, and is a website dedicated and inspired by rock climbing, in particular female rock climbers from around the world.
 
@@ -16,7 +18,7 @@ I incorporated HTML, CSS and even a short interactive section of Javascript (thi
 
 Click the button at the bottom to see my JS function in action!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
@@ -27,7 +29,7 @@ Dominique Spencer - [/dominiquespencer](https://www.linkedin.com/in/dominiquespe
 
 Project Link: [https://github.com/domspenc/she_climbs](https://github.com/domspenc/she_climbs)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
@@ -38,7 +40,7 @@ Project Link: [https://github.com/domspenc/she_climbs](https://github.com/domspe
 * [Project Idea - SheCodes Europe](https://www.shecodes.io/)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 

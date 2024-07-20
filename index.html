@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SheClimbs</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="main-body">
+      <h1>SheClimbs</h1>
+      <h2><em>For women who love to send!</em> 🧗‍♀️</h2>
+      <img
+        src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/079/737/original/domclimbing.jpg?1682913642"
+        alt="Woman Rock Climbing"
+        width="350"
+      />
+      <p>
+        <span class="paragraphTitle"><strong>Rock climbing</strong></span
+        >, or simply 'climbing', is a sport where people will climb up, across,
+        or down a natural or artificial rock face.
+        <br />
+        <br />
+        This sport has multiple disciplines including <em>bouldering</em>,
+        <em>sport climbing</em>, <em>traditional (or trad) climbing</em>, and
+        <em>deep water soloing</em>. Climbers solve 'problems' as they progress
+        through a route, and have to figure out optimum body positioning and
+        movements or 'moves' to successfully 'send' or finish a route without
+        falling. <br />
+        <br />
+        People have been climbing for centuries, and it has most recently become
+        a sport at the Olympic Games! There are a plethora of incredible female
+        climbers that inspire people all over the world. These women are record
+        breakers, and send some of the most difficult routes known to the
+        climbing world. They are certainly paving the way for the future of
+        climbing! <br />
+        <br />
+        I hope this page inspires you to try rock climbing yourself one day!
+        Here's to women climbers all over the world 💪
+      </p>
+
+      <a
+        class="theCragLink"
+        href="https://www.thecrag.com/en/article/beginners"
+        target="_blank"
+      >
+        Head to 'The Crag' to read more</a
+      >
+
+      <br />
+      <hr />
+      <br />
+      <ul>
+        5 inspirational female climbers - click their names to watch them in
+        action!
+        <li class="climber1">
+          <a
+            href="https://www.redbull.com/int-en/episodes/reel-rock-s8-e1"
+            target="_blank"
+            >🌄 Sasha Digiulian</a
+          >
+        </li>
+
+        <li class="climber2">
+          <a
+            href="https://www.redbull.com/int-en/episodes/young-guns-part-i-reel-rock-s03-e05"
+            target="_blank"
+            >👊 Ashima Shirashi</a
+          >
+        </li>
+        <li class="climber3">
+          <a href="https://www.redbull.com/gb-en/marie-uri" target="_blank"
+            >🧗‍♀️ Marie Uri</a
+          >
+        </li>
+        <li class="climber4">
+          <a
+            href="https://www.redbull.com/int-en/episodes/break-on-through-reel-rock-s04-e01"
+            target="_blank"
+            >🦎 Margo Hayes</a
+          >
+        </li>
+        <li class="climber5">
+          <a
+            href="https://www.redbull.com/int-en/episodes/reel-rock-s7-e1"
+            target="_blank"
+            >💪 Janja Garnbret</a
+          >
+        </li>
+      </ul>
+    </div>
+
+    <br />
+    <br />
+    <button>Click for Climbing Inspo</button>
+    <br />
+    <br />
+
+    <p class="codedBy"><em>Coded by Dominique Spencer</em></p>
+
+    <!-- Javascript -->
+    <script>
+      function climbInspo() {
+        let name = prompt("What is your name?");
+        let climbStyle = prompt("Do you prefer bouldering or sport climbing?");
+        climbStyle = climbStyle.toLowerCase().trim();
+        if (climbStyle === "bouldering") {
+          alert(
+            `Thank you ${name} - Keep an eye on your inbox for bouldering inspo! 💪`
+          );
+        } else {
+          alert(
+            `Thank you ${name} - Keep an eye on your inbox for sport climbing inspo! 🧗‍♀️`
+          );
+        }
+      }
+      let climbInspoButton = document.querySelector("button");
+      climbInspoButton.addEventListener("click", climbInspo);
+    </script>
+  </body>
+</html>

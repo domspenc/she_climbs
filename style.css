@@ -1,0 +1,136 @@
+    h1,
+    h2,
+    p,
+    a,
+    ul,
+    button {
+      font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+      line-height: 30px;
+    }
+    body {
+      background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/079/749/original/sasha-digiulian.jpg?1682922859");
+      background-repeat: no-repeat center;
+      background-size: cover;
+      background-attachment: scroll;
+      background-position: right;
+    }
+    .main-body {
+      background: #fff;
+      display: block;
+      margin: 0 auto;
+      max-width: 650px;
+      border-radius: 30px;
+      padding: 15px 10px 15px 10px;
+      opacity: 0.9;
+      box-shadow: 2px 2px 20px #000;
+    }
+    .paragraphTitle {
+      color: #ee0979;
+    }
+    .theCragLink {
+      color: #ee0979;
+    }
+    .climber1:hover {
+      background: linear-gradient(
+        109.8deg,
+        rgb(238, 9, 121) 42.8%,
+        rgb(255, 106, 0) 83.3%
+      );
+      cursor: pointer;
+    }
+    .climber2:hover {
+      background: linear-gradient(
+        109.8deg,
+        rgb(238, 9, 121) 42.8%,
+        rgb(255, 106, 0) 83.3%
+      );
+      cursor: pointer;
+    }
+    .climber3:hover {
+      background: linear-gradient(
+        109.8deg,
+        rgb(238, 9, 121) 42.8%,
+        rgb(255, 106, 0) 83.3%
+      );
+      cursor: pointer;
+    }
+    .climber4:hover {
+      background: linear-gradient(
+        109.8deg,
+        rgb(238, 9, 121) 42.8%,
+        rgb(255, 106, 0) 83.3%
+      );
+      cursor: pointer;
+    }
+    .climber5:hover {
+      background: linear-gradient(
+        109.8deg,
+        rgb(238, 9, 121) 42.8%,
+        rgb(255, 106, 0) 83.3%
+      );
+      cursor: pointer;
+    }
+    .codedBy {
+      font-size: 12px;
+    }
+    h1 {
+      text-align: center;
+      font-size: 40px;
+      color: #ee0979;
+    }
+    h2 {
+      text-align: center;
+      font-weight: lighter;
+    }
+    img {
+      display: block;
+      margin: 0 auto;
+      padding: 20px 10px;
+      border-radius: 30px;
+    }
+    p {
+      text-align: center;
+    }
+    a {
+      display: block;
+      margin: 0 auto;
+      padding: 20px;
+      text-decoration: none;
+      color: #000;
+    }
+
+    ul {
+      color: #000;
+      text-align: center;
+      list-style-type: none;
+      padding: 0px;
+    }
+
+    button {
+      border-radius: 25px;
+      margin: 0 auto;
+      display: block;
+      padding: 16px 24px;
+      background-color: #fff;
+      border: 3px solid #000;
+      color: #000;
+      font-size: 15px;
+      line-height: 22px;
+      text-decoration: none;
+      transition: all 200ms ease;
+      box-shadow: 2px 2px 2px #000;
+    }
+    button:hover {
+      color: #fff;
+      background: linear-gradient(
+        109.8deg,
+        rgb(238, 9, 121) 42.8%,
+        rgb(255, 106, 0) 83.3%
+      );
+      border: 3px solid #000;
+      transition: 250ms ease-in-out;
+      box-shadow: 2px 2px 2px #000;
+      font-size: 15px;
+      cursor: pointer;
+    }
