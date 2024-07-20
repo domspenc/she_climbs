@@ -5,12 +5,12 @@
 
 
 <!-- PROJECT TITLE -->
-## She Climbs
+# She Climbs
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### About The Project
 
-[![She Climbs Screen Shot][she-climbs-website-screenshot]](./images/screenshot.png)
+[![She Climbs Screen Shot][she-climbs-website-screenshot]](/images/screenshot.png)
 
 This is the very first 'major' project that I ever worked on. It's called *She Climbs*, and is a website dedicated and inspired by rock climbing, in particular female rock climbers from around the world.
 
@@ -23,7 +23,7 @@ Click the button at the bottom to see my JS function in action!
 
 
 <!-- CONTACT -->
-## Contact
+### Contact
 
 Dominique Spencer - [/dominiquespencer](https://www.linkedin.com/in/dominiquespencer/)
 
@@ -34,7 +34,7 @@ Project Link: [https://github.com/domspenc/she_climbs](https://github.com/domspe
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+### Acknowledgments
 
 * [README template](https://github.com/othneildrew/Best-README-Template)
 * [Project Idea - SheCodes Europe](https://www.shecodes.io/)
