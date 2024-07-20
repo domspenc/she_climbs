@@ -10,7 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 ### About The Project
 
-![She Climbs Screenshot](img/screenshot.png)
+![She Climbs Screenshot](img/gif.gif)
 
 This is the very first 'major' project that I ever worked on. It's called *She Climbs*, and is a website dedicated and inspired by rock climbing, in particular female rock climbers from around the world.
 
